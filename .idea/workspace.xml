@@ -3,10 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="7a02d20d-62fb-4b93-bae9-6d7e1a2549f6" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/stealth103/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/stealth103/applicationContext.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/stealth103/main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/applicationContext.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/example/stealth103/TennisCoach.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/example/stealth103/TennisCoach.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/example/stealth103/interfaces/ICoach.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/example/stealth103/interfaces/ICoach.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/example/stealth103/main/AnnotationDemoApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/example/stealth103/main/AnnotationDemoApp.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,6 +16,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -101,7 +101,8 @@
       <workItem from="1599861012576" duration="428000" />
       <workItem from="1599861449494" duration="234000" />
       <workItem from="1599861708681" duration="39000" />
-      <workItem from="1599861763495" duration="1547000" />
+      <workItem from="1599861763495" duration="2126000" />
+      <workItem from="1599867605284" duration="868000" />
     </task>
     <servers />
   </component>
