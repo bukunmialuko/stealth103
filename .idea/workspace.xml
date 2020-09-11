@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="7a02d20d-62fb-4b93-bae9-6d7e1a2549f6" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/applicationContext.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/example/stealth103/main/main.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -35,11 +37,13 @@
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\USLUSER\Spring\IdeaProject\stealth103\.idea" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\USLUSER\Spring\IdeaProject\stealth103\lib" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\USLUSER\Spring\IdeaProject\stealth103\src" />
+      <recent name="D:\USLUSER\Spring\IdeaProject\stealth103" />
+      <recent name="D:\USLUSER\Spring\IdeaProject\stealth103\.idea" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -54,9 +58,22 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.AnnotationDemoApp">
+    <configuration name="AnnotationDemoApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.stealth103.main.AnnotationDemoApp" />
+      <module name="stealth103" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.stealth103.main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main" />
+      <option name="MAIN_CLASS_NAME" value="com.example.stealth103.main.main" />
       <module name="stealth103" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -64,6 +81,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AnnotationDemoApp" />
         <item itemvalue="Application.main" />
       </list>
     </recent_temporary>
@@ -81,7 +99,7 @@
       <workItem from="1599861012576" duration="428000" />
       <workItem from="1599861449494" duration="234000" />
       <workItem from="1599861708681" duration="39000" />
-      <workItem from="1599861763495" duration="699000" />
+      <workItem from="1599861763495" duration="1247000" />
     </task>
     <servers />
   </component>
