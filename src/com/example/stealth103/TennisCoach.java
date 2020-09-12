@@ -8,18 +8,8 @@ import org.springframework.stereotype.Component;
 @Component
 public class TennisCoach implements ICoach {
 
-    private IFortuneService fortuneService;
-
-    public TennisCoach() {
-        System.out.println("Tennis coach inside default constructor");
-    }
-
     @Autowired
-    public void doSomething(IFortuneService fortuneService) {
-        System.out.println("Tennis coach inside doSomething()");
-
-        this.fortuneService = fortuneService;
-    }
+    private IFortuneService fortuneService;
 
     @Override
     public String getDailyWorkout() {

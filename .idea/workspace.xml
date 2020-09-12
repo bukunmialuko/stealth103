@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7a02d20d-62fb-4b93-bae9-6d7e1a2549f6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/out/production/stealth103/com/example/stealth103/TennisCoach.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/stealth103/com/example/stealth103/TennisCoach.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/example/stealth103/TennisCoach.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/example/stealth103/TennisCoach.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -99,7 +100,7 @@
       <workItem from="1599861449494" duration="234000" />
       <workItem from="1599861708681" duration="39000" />
       <workItem from="1599861763495" duration="2126000" />
-      <workItem from="1599867605284" duration="1429000" />
+      <workItem from="1599867605284" duration="1682000" />
     </task>
     <servers />
   </component>
