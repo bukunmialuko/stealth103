@@ -15,7 +15,9 @@ public class TennisCoach implements ICoach {
     }
 
     @Autowired
-    public void setFortuneService(IFortuneService fortuneService) {
+    public void doSomething(IFortuneService fortuneService) {
+        System.out.println("Tennis coach inside doSomething()");
+
         this.fortuneService = fortuneService;
     }
 
