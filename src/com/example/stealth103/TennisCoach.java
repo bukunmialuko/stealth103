@@ -10,8 +10,12 @@ public class TennisCoach implements ICoach {
 
     private IFortuneService fortuneService;
 
+    public TennisCoach() {
+        System.out.println("Tennis coach inside default constructor");
+    }
+
     @Autowired
-    public TennisCoach(IFortuneService fortuneService) {
+    public void setFortuneService(IFortuneService fortuneService) {
         this.fortuneService = fortuneService;
     }
 
