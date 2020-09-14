@@ -10,6 +10,9 @@ import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Scope;
 import org.springframework.stereotype.Component;
 
+import javax.annotation.PostConstruct;
+import javax.annotation.PreDestroy;
+
 @Component
 public class TennisCoach implements ICoach, InitializingBean, DisposableBean {
 
@@ -18,11 +21,13 @@ public class TennisCoach implements ICoach, InitializingBean, DisposableBean {
     private IFortuneService fortuneService;
 
     // define init method
+    @PostConstruct
     public void doMyStartupStuff(){
         System.out.println("Tennis coach inside of doMyStartupStuff()");
     }
     // define destroy method
-    public void close(){
+    @PreDestroy
+    public void doMyCleanupStuff(){
         System.out.println("Tennis coach inside of doMyCleanupStuff()");
     }
 
