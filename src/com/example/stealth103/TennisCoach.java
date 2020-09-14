@@ -14,7 +14,7 @@ import javax.annotation.PostConstruct;
 import javax.annotation.PreDestroy;
 
 @Component
-public class TennisCoach implements ICoach, InitializingBean, DisposableBean {
+public class TennisCoach implements ICoach {
 
     @Autowired
     @Qualifier("randomFortuneService")
@@ -41,15 +41,5 @@ public class TennisCoach implements ICoach, InitializingBean, DisposableBean {
         return fortuneService.getFortune();
     }
 
-    @Override
-    public void afterPropertiesSet() throws Exception {
-        System.out.println("Tennis coach inside of afterPropertiesSet()");
-    }
-
-    @Override
-    public void destroy() throws Exception {
-        System.out.println("\nTennis coach inside of destroy()");
-
-    }
 
 }
