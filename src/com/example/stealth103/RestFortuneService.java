@@ -7,6 +7,6 @@ import org.springframework.stereotype.Component;
 public class RestFortuneService implements IFortuneService {
     @Override
     public String getFortune() {
-        return "null";
+        return "Relax for 8hours";
     }
 }
