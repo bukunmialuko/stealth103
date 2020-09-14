@@ -3,8 +3,12 @@
   <component name="ChangeListManager">
     <list default="true" id="7a02d20d-62fb-4b93-bae9-6d7e1a2549f6" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/example/stealth103/RestFortuneService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/example/stealth103/RestFortuneService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/stealth103/com/example/stealth103/SportConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/stealth103/com/example/stealth103/SportConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/stealth103/com/example/stealth103/SwimCoach.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/stealth103/com/example/stealth103/SwimCoach.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/stealth103/com/example/stealth103/main/SwimJavaConfigDemoApp.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/stealth103/com/example/stealth103/main/SwimJavaConfigDemoApp.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/example/stealth103/SportConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/example/stealth103/SportConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/example/stealth103/SwimCoach.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/example/stealth103/SwimCoach.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/example/stealth103/main/SwimJavaConfigDemoApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/example/stealth103/main/SwimJavaConfigDemoApp.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -133,7 +137,7 @@
       <workItem from="1599861708681" duration="39000" />
       <workItem from="1599861763495" duration="2126000" />
       <workItem from="1599867605284" duration="2593000" />
-      <workItem from="1600083699994" duration="6036000" />
+      <workItem from="1600083699994" duration="6929000" />
     </task>
     <servers />
   </component>
