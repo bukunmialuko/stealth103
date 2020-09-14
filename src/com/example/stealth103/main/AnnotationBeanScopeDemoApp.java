@@ -17,8 +17,8 @@ public class AnnotationBeanScopeDemoApp {
         boolean result = (theCoach == alphaCoach);
 
         System.out.println("\nPointing to the same object: " + result);
-        System.out.println("\nMemory location for theCoach: " + theCoach);
-        System.out.println("\nMemory location for alphaCoach: " + alphaCoach);
+        System.out.println("Memory location for theCoach: " + theCoach);
+        System.out.println("Memory location for alphaCoach: " + alphaCoach +"\n");
 
         System.out.println(theCoach.getDailyWorkout());
         System.out.println(theCoach.getDailyFortune());
